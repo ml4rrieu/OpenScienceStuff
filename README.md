@@ -7,3 +7,5 @@ the idea is that after we create a website where the user can organize the items
 
 
 As far as possible the item should be linked to wikidata, where after we can retrieve the description data
+
+Of course Collaborators are highly welcome, please mail me.
