@@ -1,11 +1,9 @@
-# openScienceAcronym
-the goal is to collect the structure, coalition, company or association, who participates in the existence of Open Science.
-for now it deals more about open access than open science. 
-the data file should contain only the data ... no format is imposed yet ... it is hightly human yet.
+# openScienceEntities
+The goal is to gather some entities that help in the existence of Open Science. Currently it deals more with open access than open science. 
 
-the idea is that after we create a website where the user can organize the items, eg by type(plateform journal, repository, coalition ...), disciplines (mathematics, linguistic ...) and country for example.
+The underlying idea is that it lead to a website where the user can easily organize all the items, eg by type (plateform journals, repositories, coalitions ...), disciplines (mathematics, linguistic ...) or country.
 
+The data file should only contain the data ; no format is imposed ... it is hightly human yet.
+As far as possible the items should be linked to wikidata, so that after it is possible to extract the description data (eg website, country, type ...).
 
-As far as possible the item should be linked to wikidata, where after we can retrieve the description data
-
-Of course Collaborators are highly welcome, please mail me.
+Of course collaborators are highly welcome, please mail me.
