@@ -9,5 +9,5 @@ As far as possible the items should be linked to wikidata, so that we can extrac
 Of course collaborators are highly welcome, please mail me.
 
 
-#OAcitations.txt
+# OAcitations.txt
 some citations related to open science/access ... or related to how we can think the diffusion of reaseach outputs in our digital era.
